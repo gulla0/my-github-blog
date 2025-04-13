@@ -4,6 +4,15 @@ description: Decentralized ideas and experiments.
 theme: minima
 markdown: kramdown
 
+baseurl: "/my-github-blog" # GitHub project repo name (important!)
+url: "https://gulla0.github.io" # your GitHub Pages URL
+
 header_pages:
   - index.md
-  - about.md 
+  - about.md
+
+plugins:
+  - jekyll-feed
+
+sass:
+  style: compressed
