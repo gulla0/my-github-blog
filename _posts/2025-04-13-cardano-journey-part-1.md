@@ -4,7 +4,7 @@ title: "Becoming a Builder: My Cardano Journey"
 date: 2025-04-13
 ---
 <p align="center">
-  <img src="/assets/images/1.png" alt="Journey begins" width="60%">
+  <img src="/my-github-blog/assets/images/1.png" alt="Journey begins" width="60%">
 </p>
 
 
