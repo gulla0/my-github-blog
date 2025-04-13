@@ -1,0 +1,9 @@
+title: My GitHub Blog
+author: gZero
+description: Decentralized ideas and experiments.
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - about.md 

@@ -1,0 +1,25 @@
+# Jekyll site files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# Ruby environment
+.ruby-version
+Gemfile.lock
+
+# MacOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log 
