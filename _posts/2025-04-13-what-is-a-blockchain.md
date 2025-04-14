@@ -172,7 +172,7 @@ Yeah — the fuzziness is lifting a bit.
 
 ---
 
-*If you enjoyed this article, you might also like [Becoming a Builder: My Cardano Journey](/my-github-blog/2025-04-13-cardano-journey-part-1)*
+*If you enjoyed this article, you might also like [Becoming a Builder: My Cardano Journey](/my-github-blog/2025/04/13/cardano-journey-part-1)*
 
 ---
 

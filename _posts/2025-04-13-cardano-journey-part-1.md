@@ -48,7 +48,7 @@ Because even if I'm not a builder yet, I've started walking. And maybe that feel
 
 ---
 
-*If you're interested in blockchain fundamentals, check out [What Is a Blockchain, Really?](/my-github-blog/2025-04-13-what-is-a-blockchain)*
+*If you're interested in blockchain fundamentals, check out [What Is a Blockchain, Really?](/my-github-blog/2025/04/13/what-is-a-blockchain)*
 
 ---
 
