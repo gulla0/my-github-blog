@@ -2,7 +2,7 @@
 layout: post
 title: "Becoming a Builder: My Cardano Journey"
 date: 2025-04-13
-thumbnail: 1.png
+thumbnail: /assets/images/1.png
 ---
 <p align="center">
   <img src="/my-github-blog/assets/images/1.png" alt="Journey begins" width="60%">
