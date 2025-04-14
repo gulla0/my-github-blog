@@ -2,7 +2,7 @@
 layout: post
 title: "Part 2: Okay… So What Is a Blockchain, Really?"
 date: 2025-04-13
-thumbnail: 2.png
+thumbnail: assets/images/2.png
 ---
 <p align="center">
   <img src="/my-github-blog/assets/images/2.png" alt="Journey begins" width="60%">
