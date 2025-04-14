@@ -2,6 +2,7 @@
 layout: default
 title: ""
 ---
+
 <style>
   .post-item {
     display: flex;
@@ -43,16 +44,19 @@ title: ""
   }
 </style>
 
-<ul class="post-list">
+<div class="post-list">
   {% for post in site.posts %}
-    <li style="margin-bottom: 2em;">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <small>{{ post.date | date: "%B %d, %Y" }}</small><br/>
-
+    <div class="post-item">
       {% if post.thumbnail %}
-        <img src="{{ site.baseurl }}/assets/images/{{ post.thumbnail }}" alt="Thumbnail" width="300" style="margin-top: 0.5em;" />
+        <img class="post-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail" />
       {% endif %}
-    </li>
-  {% endfor %}
-</ul>
 
+      <div class="post-text">
+        <h2 class="post-title">
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        <div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
