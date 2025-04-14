@@ -48,7 +48,7 @@ title: ""
   {% for post in site.posts %}
     <div class="post-item">
       {% if post.thumbnail %}
-        <img class="post-thumbnail" src="{{ site.baseurl }}{{ post.thumbnail }}" alt="Thumbnail" />
+        <img class="post-thumbnail" src="{{ site.baseurl }}/{{ post.thumbnail }}" alt="Thumbnail" />
       {% endif %}
 
       <div class="post-text">
